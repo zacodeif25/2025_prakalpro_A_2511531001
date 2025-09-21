@@ -3,7 +3,7 @@ package Pekan2;
 public class DeklarasiVariabel {
 	/* program java
 	 * latihan
-	 * tentang pendklarasian variabel
+	 * tentang pendeklarasian variabel
 	 */
 	static int umur=25; /*variabel dapat langsung diinisiasi */
 	public static void main (String [] args) {
