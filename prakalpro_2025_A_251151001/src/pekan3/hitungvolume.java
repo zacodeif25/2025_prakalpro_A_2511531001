@@ -10,9 +10,9 @@ public class hitungvolume {
 	System.out.println("--APLIKASI PENGHITUNG VOLUME KERUCUT--");
 	Scanner keyboard = new Scanner(System.in);
 	System.out.print("Silakan masukkan panjang jari jari kerucut anda :");
-	r = keyboard.nextInt();
+	r = keyboard.nextDouble();
 	System.out.print("Silakan masukkan tinggi kerucut anda            :");
-	t = keyboard.nextInt();
+	t = keyboard.nextDouble();
 	keyboard.close();
 	v = (1.0 / 3.0) * PI * r * r * t;
 	
@@ -21,3 +21,4 @@ public class hitungvolume {
 	System.out.println("Terima kasih sudah menggunakan aplikasi ini");
 	}
 }
+
