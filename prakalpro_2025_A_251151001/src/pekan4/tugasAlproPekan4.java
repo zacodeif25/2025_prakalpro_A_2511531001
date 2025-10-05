@@ -74,7 +74,7 @@ public class tugasAlproPekan4 {
         double bjarak = jarak * 3000;
         double subtotal = bdasar + bjarak;
         blayanan = (persen / 100.0) * subtotal;
-        double tsdiskon = blayanan + bjenispkt ;
+        double tsdiskon = blayanan + bjenispkt + subtotal ;
         double diskon = (tsdiskon > 150000) ? 0.1 * tsdiskon : 0;
         double tsel = tsdiskon - diskon;
 
