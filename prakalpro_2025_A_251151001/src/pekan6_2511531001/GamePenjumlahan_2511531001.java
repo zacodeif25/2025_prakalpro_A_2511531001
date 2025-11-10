@@ -23,7 +23,7 @@ public class GamePenjumlahan_2511531001 {
 
 	private static int play(Scanner console, Random rand) {
 		//print the operands being added, and sum them
-		int operands = rand.nextInt(4) + 2;
+		int operands = rand.nextInt(9) + 2;
 		int sum = rand.nextInt(10) + 1;
 		System.out.print(sum);
 		for(int i =2; i<= operands; i++) {

@@ -21,5 +21,6 @@ public class perulanganWhile1_2511531001 {
 			}
 		System.out.println("Anda Sudah melakukan perulangan sebanyak "+counter+" kali");
 		
+		
 	}
 }
