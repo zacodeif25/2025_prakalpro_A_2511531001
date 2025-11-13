@@ -16,7 +16,7 @@ public class PanggilMahasiswa2_2511531001 {
 			System.out.println(y + " anda angkatan 2025");
 		}
 		if (x.contains("1153")){
-			System.out.println(y + "Anda Mahasiswa Informatika");
+			System.out.println(y + " Anda Mahasiswa Informatika");
 		}
 		a.Cetak2();
 		input.close();

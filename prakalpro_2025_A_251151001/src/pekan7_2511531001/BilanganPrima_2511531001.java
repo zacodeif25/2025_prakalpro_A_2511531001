@@ -15,7 +15,7 @@ public class BilanganPrima_2511531001 {
 			System.out.print(" Input nilai n =");
 		int a = input.nextInt();
 			if (isPrime(a)) {
-				System.out.println(a+"bilangan prima");
+				System.out.println(a+" adalah bilangan prima");
 			}else {
 				System.out.println(a+" bukan bilangan prima");
 		}
