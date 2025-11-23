@@ -56,8 +56,8 @@ public class OperatorAritmatikaGUI_2511531001 extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 326, 305);
 		contentPane = new JPanel();
-		contentPane.setBackground(new Color(102, 204, 0));
-		contentPane.setForeground(new Color(104, 245, 10));
+		contentPane.setBackground(new Color(192, 192, 192));
+		contentPane.setForeground(new Color(192, 192, 192));
 		contentPane.setBorder(new MatteBorder(3, 3, 3, 3, (Color) new Color(0, 0, 0)));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
